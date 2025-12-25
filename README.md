@@ -131,13 +131,4 @@ Retail-Superstore-EDA/
 **Galal Galal**
 Data Analyst | Python | SQL | Power BI
 
----
 
-If you want, I can also:
-
-* ✨ Shorten this README for Kaggle
-* 💼 Rewrite it for LinkedIn / portfolio
-* 📊 Add Power BI dashboard description
-* 🏆 Add “Business Impact” section
-
-Just tell me 👍
